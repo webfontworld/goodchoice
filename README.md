@@ -1,6 +1,6 @@
 # 여기어때 잘난체(Jalnan)
 
-<a href="https://wess.tistory.com/249" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/goodchoice/Jalnan.jpg" alt="Jalnan" style="width:300px">
 </a>
 
